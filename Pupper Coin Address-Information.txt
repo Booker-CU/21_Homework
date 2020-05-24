@@ -1,0 +1,23 @@
+Ropsten Pupper Coin Sale
+
+
+
+Token Sale Address
+0xa6AC748e7789d1690Af3289681bCfE52D6194925
+
+
+Token Address
+0xc5d94C1CaB58Cdbf516595f2028f4d54C034F2Bc
+
+
+
+Smart Contract Address
+
+PupperCoinSaleDeployer: 0x1E9851BE2F92dE508058EbAD90D4fD34B5C7b130
+
+PupperCoinSale: 0xc5d94C1CaB58Cdbf516595f2028f4d54C034F2Bc
+
+PupperCoin: 0xa6AC748e7789d1690Af3289681bCfE52D6194925
+
+
+
